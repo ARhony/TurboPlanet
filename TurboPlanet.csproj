@@ -340,7 +340,6 @@
     <Compile Include="Assets\__Scripts\GravityAttractor.cs" />
     <Compile Include="Assets\__Scripts\GravityBody.cs" />
     <Compile Include="Assets\__Scripts\PlayerController.cs" />
-    <Compile Include="Assets\test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Bolt Documentation\0. READ ME FIRST.txt" />
